@@ -16,6 +16,7 @@
 .App-header {
   background-color: #282c34;
   min-height: 20vh;
+  min-width: 1000px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -96,6 +97,7 @@
 
 .card-container img {
   padding-top: 20px;
+  width: 80%;
 }
 
 .book-description {
@@ -118,6 +120,7 @@ p {
   color: #6c7780;
   padding: 10px 0;
 }
+
 
 @keyframes App-logo-spin {
   from {
