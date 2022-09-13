@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+This a react application that comunicates with Book book API to display searched book with information about them.
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
